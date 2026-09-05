@@ -1,0 +1,18 @@
+{
+  "name": "Quiet Command — Offline Emergency Copilot",
+  "short_name": "Quiet Command",
+  "description": "Local-first emergency sensing and explainable decision support.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eef1ed",
+  "theme_color": "#1e2b2d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/manus-storage/signal-shield-logo_d01aa947.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
